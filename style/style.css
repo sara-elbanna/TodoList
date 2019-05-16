@@ -1,0 +1,9 @@
+
+.completed{
+  background-color: green;
+    width: 17%;
+    border-radius: 2px;
+    padding: 3px;
+    color: #fff;
+
+}
